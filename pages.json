@@ -1,0 +1,270 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"backgroundColorBottom": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "black",
+				"backgroundColorTop": "#FFFFFF",
+				"backgroundColorBottom": "#FFFFFF",
+				"backgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/register/register",
+			"style": {
+				"backgroundColorBottom": "#F5F5F5"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationStyle": "custom",
+				"backgroundColorTop": "#1F8EFA",
+				"backgroundColor": "#1F8EFA",
+				"backgroundColorBottom": "#F9F9F9"
+			}
+		},
+		{
+			"path": "pages/alumni_card_detail/alumni_card_detail",
+			"style": {
+				"navigationStyle": "custom",
+				"backgroundColorTop": "#2FD4A1",
+				"backgroundColorBottom": "#FFFFFF",
+				"backgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/card_package/card_package",
+			"style": {
+				"navigationBarTitleText": "我的卡包",
+				"backgroundColorTop": "#FFFFFF",
+				"backgroundColorBottom": "#FFFFFF",
+				"backgroundColor": "#FFFFFF",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/webview/webview",
+			"style": {}
+		},
+		{
+			"path": "pages/moment/moment",
+			"style": {
+				"navigationBarTitleText": "圈子",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/moment/new/new",
+			"style": {
+				"navigationBarTitleText": "发布"
+			}
+		},
+		{
+			"path": "pages/moment/new/video",
+			"style": {
+				"navigationBarTitleText": "发布视频"
+			}
+		},
+		{
+			"path": "pages/moment/detail/detail",
+			"style": {
+				"navigationBarTitleText": "动态详情"
+			}
+		},
+		{
+			"path": "pages/moment/for_tag/for_tag",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/my/moment/moment",
+			"style": {
+				"navigationBarTitleText": "我的动态"
+			}
+		},
+		{
+			"path": "pages/my/follow/follow",
+			"style": {
+				"navigationBarTitleText": "我的关注"
+			}
+		},
+		{
+			"path": "pages/my/funs/funs",
+			"style": {
+				"navigationBarTitleText": "我的粉丝"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "内容搜索"
+			}
+		},
+		{
+			"path": "pages/my/setting/setting",
+			"style": {
+				"navigationBarTitleText": "设置"
+			}
+		},
+		{
+			"path": "pages/my/message/message",
+			"style": {
+				"navigationBarTitleText": "我的消息"
+			}
+		},
+		{
+			"path": "pages/my/point/point",
+			"style": {
+				"navigationBarTitleText": "我的积分"
+			}
+		},
+		{
+			"path": "pages/my/point/history/history",
+			"style": {
+				"navigationBarTitleText": "积分历史"
+			}
+		},
+		{
+			"path": "pages/my/point/sign",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/user_page/user_page",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/my/help/help",
+			"style": {
+				"navigationBarTitleText": "帮助&反馈"
+			}
+		},
+		{
+			"path": "pages/my/info/info",
+			"style": {
+				"navigationBarBackgroundColor": "#F8F8F8",
+				"navigationBarTitleText": "我的信息",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/my/follow/info/info",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/my/funs/info/info",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "pages/my/userinfo/qrcode",
+			"style": {
+				"navigationBarTitleText": "我的身份码",
+				"backgroundColor": "#38DDA3",
+				"backgroundColorBottom": "#38DDA3",
+				"backgroundColorTop": "#38DDA3"
+			}
+		}, {
+			"path": "pages/my/userinfo/userinfo",
+			"style": {
+				"navigationBarTitleText": "身份信息",
+				"backgroundColor": "#38DDA3",
+				"backgroundColorBottom": "#FFFFFF",
+				"backgroundColorTop": "#38DDA3",
+				"enablePullDownRefresh": true
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#CCCCCC",
+		"selectedColor": "#38DDA3",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabbar/home.png",
+				"selectedIconPath": "static/tabbar/home-selected.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/moment/moment",
+				"iconPath": "static/tabbar/moments.png",
+				"selectedIconPath": "static/tabbar/moments-selected.png",
+				"text": "圈子"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"iconPath": "static/tabbar/my.png",
+				"selectedIconPath": "static/tabbar/my-selected.png",
+				"text": "我的"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationStyle": "default",
+		"navigationBarTextStyle": "white",
+		"navigationBarBackgroundColor": "#31D7A3"
+	},
+	"condition": {
+		"current": 3,
+		"list": [{
+				"name": "圈子",
+				"path": "pages/moment/moment"
+			},
+			{
+				"name": "发布",
+				"path": "pages/moment/new/new"
+			},
+			{
+				"name": "发布视频",
+				"path": "pages/moment/new/video"
+			},
+			{
+				"name": "网页查看",
+				"path": "pages/webview/webview",
+				"query": "url=https://www.baidu.com"
+			},
+			{
+				"name": "文章详情",
+				"path": "pages/moment/detail/detail",
+				"query": "id=1"
+			},
+			{
+				"name": "设置",
+				"path": "pages/my/setting/setting"
+			},
+			{
+				"name": "我的消息",
+				"path": "pages/my/message/message"
+			},
+			{
+				"name": "个人中心",
+				"path": "pages/my/my"
+			},
+			{
+				"name": "搜索",
+				"path": "pages/search/search"
+			},
+			{
+				"name": "个人资料",
+				"path": "pages/my/info/info"
+			}
+		]
+	}
+}

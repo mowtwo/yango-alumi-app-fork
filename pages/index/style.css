@@ -1,0 +1,265 @@
+.body {
+	min-height: 100vh;
+	max-width: 100vw;
+	background-color: #fdfdfd;
+}
+
+.custom-bar {
+	position: sticky;
+	top: 0;
+	z-index: 99;
+}
+
+.custom-bar-fixed {
+	width: 100vw;
+	position: fixed;
+	top: 0;
+	z-index: 99;
+}
+
+.custom-bar-content {
+	height: 100%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.custom-bar-search {
+	position: relative;
+	margin: 15rpx 30rpx;
+	background-color: #FFFFFF;
+	border-radius: 15px;
+	flex: 1;
+	height: 70%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.custom-bar-search input {
+	color: #999999;
+	width: 100%;
+	height: 100%;
+	padding-left: 30rpx;
+	padding-right: 60rpx;
+}
+
+.custom-bar-search .cuIcon-search {
+	color: #999999;
+	position: absolute;
+	right: 20rpx;
+}
+
+.scan-icon {
+	width: 100vw;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	z-index: 100;
+}
+
+.scan-group {
+	margin-left: 25rpx;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: #FFFFFF;
+	line-height: 1.05;
+}
+
+.scan-group .cuIcon-scan {
+	font-size: 44rpx;
+}
+
+.scan-group .scan-text {
+	font-size: 20rpx;
+}
+
+.navbar {
+	margin-top: -2rpx;
+	z-index: 11;
+	height: 302rpx;
+}
+
+.navbar-image {
+	height: 302rpx;
+	width: 100vw;
+	border-radius: 0 0 45rpx 45rpx;
+}
+
+.navbar-image>image {
+	width: 100%;
+	height: 100%;
+	border-radius: 0 0 45rpx 45rpx;
+}
+
+.navbar-img-box {
+	min-height: 302rpx;
+	width: 100vw;
+	border-radius: 0 0 45rpx 45rpx;
+}
+
+.navbar-img-box swiper {
+	border-radius: 0 0 45rpx 45rpx;
+}
+
+.navbar-image {
+	width: 100%;
+	height: 100%;
+	position: relative;
+	border-radius: 0 0 45rpx 45rpx;
+}
+
+.navbar-image > button {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	opacity: 0;
+}
+
+.action-bar {
+	position: relative;
+	z-index: 20;
+	background-color: #FFFFFF;
+	/* margin: 20rpx 30rpx; */
+	margin: 0 30rpx;
+	margin-top: -30rpx;
+	margin-bottom: 20rpx;
+	border-radius: 4px;
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	align-items: center;
+	border-radius: 15rpx;
+	box-shadow: 0 5rpx 21rpx rgba(139, 199, 203, 0.28);
+}
+
+.action-bar-content {
+	width: 25%;
+	text-align: center;
+	padding: 26rpx 0;
+}
+
+.action-bar-icon {
+	width: 90rpx;
+	height: 90rpx;
+}
+
+.action-bar-text {
+	color: #333333;
+	font-size: 24rpx;
+}
+
+.announce-img {
+	margin: 0 30rpx;
+	height: 208rpx;
+	position: relative;
+}
+
+.announce-img > button,
+.announce-img > swiper-item > button {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	opacity: 0;
+}
+
+.announce-img image {
+	width: 100%;
+	height: 100%;
+}
+
+.news {
+	padding: 30rpx 0;
+}
+
+.news>.title {
+	padding: 0 40rpx;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.news>.title>.title-point {
+	width: 10rpx;
+	height: 33rpx;
+	background-color: var(--main-color);
+	border-radius: 6rpx;
+}
+
+.news>.title>.text {
+	margin-left: 10rpx;
+	color: #282828;
+	font-size: 36rpx;
+	font-weight: bold;
+}
+
+.news>.content {
+	padding: 15rpx 40rpx;
+	display: flex;
+	flex-direction: row;
+}
+
+.news>.content>.info {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	width: 60%;
+}
+
+.news>.content>.info>.title {
+	color: #3B424C;
+	font-weight: bold;
+	font-size: 30rpx;
+	display: -webkit-box;
+	word-break: break-all;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.news>.content>.info>.tip {
+	margin-top: 24rpx;
+	color: #BABABA;
+	font-weight: bold;
+	font-size: 24rpx;
+}
+
+.news>.content>.img-area {
+	width: 40%;
+	display: flex;
+	margin-left: auto;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.news>.content>.img-area>image {
+	width: 200rpx;
+	height: 152rpx;
+	margin-left: auto;
+}
+
+
+/* 点击效果 */
+.scan-qrcode-hover {
+	color: #E8E8E8;
+}
+
+.action-bar-item-hover {
+	background-color: #e8e8e8;
+	opacity: 0.9;
+}
+
+.tools-bar-item-hover {
+	opacity: 0.4;
+}
+
+.default-hover {
+	background-color: #f0f0f0 !important;
+}

@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="752" height="264" viewBox="0 0 752 264">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.361;
+      }
+
+      .cls-2 {
+        fill: #ced8e5;
+      }
+
+      .cls-3 {
+        fill: rgba(249,253,255,0);
+      }
+
+      .cls-3, .cls-5, .cls-7 {
+        stroke: #cbd6e3;
+      }
+
+      .cls-3, .cls-5, .cls-7, .cls-8 {
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+
+      .cls-4, .cls-6 {
+        fill: #cbd6e3;
+      }
+
+      .cls-5 {
+        fill: rgba(255,213,101,0);
+      }
+
+      .cls-6 {
+        opacity: 0.302;
+      }
+
+      .cls-7 {
+        fill: rgba(193,168,146,0);
+      }
+
+      .cls-8 {
+        fill: none;
+        stroke: #c5d0dd;
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <g id="_illustration1" data-name=" illustration1" class="cls-1">
+    <g id="_illustration" data-name=" illustration" transform="translate(2 2)">
+      <rect id="圆角矩形_16" data-name="圆角矩形 16" class="cls-2" width="740" height="4" rx="2" transform="translate(10 258)"/>
+      <g id="city_illustration" data-name="city illustration">
+        <g id="建筑1" transform="translate(28 100)">
+          <rect id="圆角矩形_6" data-name="圆角矩形 6" class="cls-3" width="60" height="160" rx="4"/>
+          <rect id="圆角矩形_6_拷贝_2" data-name="圆角矩形 6 拷贝 2" class="cls-3" width="12" height="16" rx="2" transform="translate(12 14)"/>
+          <rect id="圆角矩形_6_拷贝_3" data-name="圆角矩形 6 拷贝 3" class="cls-3" width="12" height="16" rx="2" transform="translate(36 14)"/>
+          <rect id="圆角矩形_6_拷贝_4" data-name="圆角矩形 6 拷贝 4" class="cls-3" width="12" height="16" rx="2" transform="translate(12 42)"/>
+          <rect id="圆角矩形_6_拷贝_4-2" data-name="圆角矩形 6 拷贝 4" class="cls-3" width="12" height="16" rx="2" transform="translate(36 42)"/>
+          <rect id="圆角矩形_6_拷贝_5" data-name="圆角矩形 6 拷贝 5" class="cls-3" width="12" height="16" rx="2" transform="translate(12 70)"/>
+          <rect id="圆角矩形_6_拷贝_5-2" data-name="圆角矩形 6 拷贝 5" class="cls-3" width="12" height="16" rx="2" transform="translate(36 70)"/>
+          <rect id="圆角矩形_6_拷贝_6" data-name="圆角矩形 6 拷贝 6" class="cls-3" width="12" height="16" rx="2" transform="translate(12 98)"/>
+          <rect id="圆角矩形_6_拷贝_6-2" data-name="圆角矩形 6 拷贝 6" class="cls-3" width="12" height="16" rx="2" transform="translate(36 98)"/>
+          <rect id="圆角矩形_6_拷贝_7" data-name="圆角矩形 6 拷贝 7" class="cls-3" width="28" height="34" rx="2" transform="translate(16 126)"/>
+          <rect id="圆角矩形_7" data-name="圆角矩形 7" class="cls-4" width="40" height="4" rx="2" transform="translate(10 124)"/>
+        </g>
+        <g id="建筑1_copy" data-name="建筑1 copy" transform="translate(240.85 100)">
+          <rect id="圆角矩形_6-2" data-name="圆角矩形 6" class="cls-3" width="60" height="160" rx="4" transform="translate(0.15)"/>
+          <rect id="圆角矩形_6_拷贝_2-2" data-name="圆角矩形 6 拷贝 2" class="cls-3" width="12" height="16" rx="2" transform="translate(12.15 14)"/>
+          <rect id="圆角矩形_6_拷贝_3-2" data-name="圆角矩形 6 拷贝 3" class="cls-3" width="12" height="16" rx="2" transform="translate(36.15 14)"/>
+          <rect id="圆角矩形_6_拷贝_4-3" data-name="圆角矩形 6 拷贝 4" class="cls-3" width="12" height="16" rx="2" transform="translate(12.15 42)"/>
+          <rect id="圆角矩形_6_拷贝_4-4" data-name="圆角矩形 6 拷贝 4" class="cls-3" width="12" height="16" rx="2" transform="translate(36.15 42)"/>
+          <rect id="圆角矩形_6_拷贝_5-3" data-name="圆角矩形 6 拷贝 5" class="cls-3" width="12" height="16" rx="2" transform="translate(12.15 70)"/>
+          <rect id="圆角矩形_6_拷贝_5-4" data-name="圆角矩形 6 拷贝 5" class="cls-3" width="12" height="16" rx="2" transform="translate(36.15 70)"/>
+          <rect id="圆角矩形_6_拷贝_6-3" data-name="圆角矩形 6 拷贝 6" class="cls-3" width="12" height="16" rx="2" transform="translate(12.15 98)"/>
+          <rect id="圆角矩形_6_拷贝_6-4" data-name="圆角矩形 6 拷贝 6" class="cls-3" width="12" height="16" rx="2" transform="translate(36.15 98)"/>
+          <rect id="圆角矩形_6_拷贝_7-2" data-name="圆角矩形 6 拷贝 7" class="cls-3" width="28" height="34" rx="2" transform="translate(16.15 126)"/>
+          <rect id="圆角矩形_7-2" data-name="圆角矩形 7" class="cls-4" width="40" height="4" rx="2" transform="translate(10.15 124)"/>
+        </g>
+        <g id="建筑1_copy_2" data-name="建筑1 copy 2" transform="translate(304.604 100)">
+          <rect id="圆角矩形_6-3" data-name="圆角矩形 6" class="cls-3" width="60" height="160" rx="4" transform="translate(0.396)"/>
+          <rect id="圆角矩形_6_拷贝_2-3" data-name="圆角矩形 6 拷贝 2" class="cls-3" width="12" height="16" rx="2" transform="translate(12.396 14)"/>
+          <rect id="圆角矩形_6_拷贝_3-3" data-name="圆角矩形 6 拷贝 3" class="cls-3" width="12" height="16" rx="2" transform="translate(36.396 14)"/>
+          <rect id="圆角矩形_6_拷贝_4-5" data-name="圆角矩形 6 拷贝 4" class="cls-3" width="12" height="16" rx="2" transform="translate(12.396 42)"/>
+          <rect id="圆角矩形_6_拷贝_4-6" data-name="圆角矩形 6 拷贝 4" class="cls-3" width="12" height="16" rx="2" transform="translate(36.396 42)"/>
+          <rect id="圆角矩形_6_拷贝_5-5" data-name="圆角矩形 6 拷贝 5" class="cls-3" width="12" height="16" rx="2" transform="translate(12.396 70)"/>
+          <rect id="圆角矩形_6_拷贝_5-6" data-name="圆角矩形 6 拷贝 5" class="cls-3" width="12" height="16" rx="2" transform="translate(36.396 70)"/>
+          <rect id="圆角矩形_6_拷贝_6-5" data-name="圆角矩形 6 拷贝 6" class="cls-3" width="12" height="16" rx="2" transform="translate(12.396 98)"/>
+          <rect id="圆角矩形_6_拷贝_6-6" data-name="圆角矩形 6 拷贝 6" class="cls-3" width="12" height="16" rx="2" transform="translate(36.396 98)"/>
+          <rect id="圆角矩形_6_拷贝_6_copy" data-name="圆角矩形 6 拷贝 6 copy" class="cls-3" width="12" height="16" rx="2" transform="translate(12.396 128)"/>
+          <rect id="圆角矩形_6_拷贝_6_copy-2" data-name="圆角矩形 6 拷贝 6 copy" class="cls-3" width="12" height="16" rx="2" transform="translate(36.396 128)"/>
+        </g>
+        <g id="建筑2" transform="translate(104 40)">
+          <rect id="圆角矩形_6-4" data-name="圆角矩形 6" class="cls-3" width="60" height="220" rx="4"/>
+          <rect id="圆角矩形_8" data-name="圆角矩形 8" class="cls-5" width="44" height="8" rx="2" transform="translate(8 8)"/>
+          <rect id="圆角矩形_8_拷贝" data-name="圆角矩形 8 拷贝" class="cls-5" width="44" height="8" rx="2" transform="translate(8 24)"/>
+          <rect id="圆角矩形_8_拷贝_2" data-name="圆角矩形 8 拷贝 2" class="cls-5" width="44" height="8" rx="2" transform="translate(8 40)"/>
+          <rect id="圆角矩形_8_拷贝_2-2" data-name="圆角矩形 8 拷贝 2" class="cls-5" width="44" height="8" rx="2" transform="translate(8 56)"/>
+          <rect id="圆角矩形_8_拷贝_3" data-name="圆角矩形 8 拷贝 3" class="cls-5" width="44" height="8" rx="2" transform="translate(8 72)"/>
+          <rect id="圆角矩形_8_拷贝_3-2" data-name="圆角矩形 8 拷贝 3" class="cls-5" width="44" height="8" rx="2" transform="translate(8 88)"/>
+          <rect id="圆角矩形_8_拷贝_3-3" data-name="圆角矩形 8 拷贝 3" class="cls-5" width="44" height="8" rx="2" transform="translate(8 104)"/>
+          <rect id="圆角矩形_8_拷贝_3-4" data-name="圆角矩形 8 拷贝 3" class="cls-5" width="44" height="8" rx="2" transform="translate(8 120)"/>
+          <rect id="圆角矩形_8_拷贝_4" data-name="圆角矩形 8 拷贝 4" class="cls-5" width="44" height="8" rx="2" transform="translate(8 136)"/>
+          <rect id="圆角矩形_8_拷贝_4-2" data-name="圆角矩形 8 拷贝 4" class="cls-5" width="44" height="8" rx="2" transform="translate(8 152)"/>
+          <rect id="圆角矩形_8_拷贝_4-3" data-name="圆角矩形 8 拷贝 4" class="cls-5" width="44" height="8" rx="2" transform="translate(8 168)"/>
+          <path id="矩形_1" data-name="矩形 1" class="cls-6" d="M156.27,226.026,158,234l-22,22V246Z" transform="translate(-106 -42)"/>
+          <rect id="圆角矩形_8_拷贝_4-4" data-name="圆角矩形 8 拷贝 4" class="cls-5" width="44" height="36" rx="2" transform="translate(8 184)"/>
+          <rect id="圆角矩形_9" data-name="圆角矩形 9" class="cls-4" width="4" height="36" rx="2" transform="translate(28 184)"/>
+        </g>
+        <g id="建筑2_copy" data-name="建筑2 copy" transform="translate(425.029 40)">
+          <rect id="圆角矩形_6-5" data-name="圆角矩形 6" class="cls-3" width="60" height="220" rx="4" transform="translate(-0.029)"/>
+          <rect id="圆角矩形_8-2" data-name="圆角矩形 8" class="cls-5" width="44" height="8" rx="2" transform="translate(7.971 8)"/>
+          <rect id="圆角矩形_8_拷贝-2" data-name="圆角矩形 8 拷贝" class="cls-5" width="44" height="8" rx="2" transform="translate(7.971 24)"/>
+          <rect id="圆角矩形_8_拷贝_2-3" data-name="圆角矩形 8 拷贝 2" class="cls-5" width="44" height="8" rx="2" transform="translate(7.971 40)"/>
+          <rect id="圆角矩形_8_拷贝_2-4" data-name="圆角矩形 8 拷贝 2" class="cls-5" width="44" height="8" rx="2" transform="translate(7.971 56)"/>
+          <rect id="圆角矩形_8_拷贝_3-5" data-name="圆角矩形 8 拷贝 3" class="cls-5" width="44" height="8" rx="2" transform="translate(7.971 72)"/>
+          <rect id="圆角矩形_8_拷贝_3-6" data-name="圆角矩形 8 拷贝 3" class="cls-5" width="44" height="8" rx="2" transform="translate(7.971 88)"/>
+          <rect id="圆角矩形_8_拷贝_3-7" data-name="圆角矩形 8 拷贝 3" class="cls-5" width="44" height="8" rx="2" transform="translate(7.971 104)"/>
+          <rect id="圆角矩形_8_拷贝_3-8" data-name="圆角矩形 8 拷贝 3" class="cls-5" width="44" height="8" rx="2" transform="translate(7.971 120)"/>
+          <rect id="圆角矩形_8_拷贝_4-5" data-name="圆角矩形 8 拷贝 4" class="cls-5" width="44" height="8" rx="2" transform="translate(7.971 136)"/>
+          <rect id="圆角矩形_8_拷贝_4-6" data-name="圆角矩形 8 拷贝 4" class="cls-5" width="44" height="8" rx="2" transform="translate(7.971 152)"/>
+          <rect id="圆角矩形_8_拷贝_4-7" data-name="圆角矩形 8 拷贝 4" class="cls-5" width="44" height="8" rx="2" transform="translate(7.971 168)"/>
+          <path id="矩形_1-2" data-name="矩形 1" class="cls-6" d="M450.27,226.026,452,234l-22,22V246Z" transform="translate(-400.58 -42)"/>
+          <rect id="圆角矩形_8_拷贝_4-8" data-name="圆角矩形 8 拷贝 4" class="cls-5" width="44" height="36" rx="2" transform="translate(7.971 184)"/>
+          <rect id="圆角矩形_9-2" data-name="圆角矩形 9" class="cls-4" width="4" height="36" rx="2" transform="translate(27.971 184)"/>
+        </g>
+        <g id="树" transform="translate(322.14 101.004)">
+          <g id="组_7" data-name="组 7">
+            <path id="椭圆_8" data-name="椭圆 8" class="cls-7" d="M574,168c14.359,0,26,22.327,26,40s-11.641,24-26,24-26-6.327-26-24S559.641,168,574,168Z" transform="translate(-282.014 -103.004)"/>
+            <path id="圆角矩形_21" data-name="圆角矩形 21" class="cls-4" d="M4,27V11.359L.134,7.515A1.011,1.011,0,0,1,.5,6.139a1,1,0,0,1,1.366.369L4,8.629V1A1,1,0,1,1,6,1V7.229L8.134,3.508A1,1,0,0,1,9.5,3.139a1.01,1.01,0,0,1,.366,1.375L6,11.257V27a1,1,0,1,1-2,0Z"/>
+          </g>
+          <g id="组_7_拷贝" data-name="组 7 拷贝" transform="translate(225.986 104.996)">
+            <path id="椭圆_8-2" data-name="椭圆 8" class="cls-7" d="M524,208c8.837,0,16,13.257,16,23.75S532.837,246,524,246s-16-3.757-16-14.25S515.163,208,524,208Z" transform="translate(-508 -208)"/>
+            <rect id="圆角矩形_21-2" data-name="圆角矩形 21" class="cls-4" width="4" height="24" rx="2" transform="translate(13.874 30)"/>
+          </g>
+        </g>
+        <g id="sun" transform="translate(313.146 5)">
+          <circle id="椭圆_1" data-name="椭圆 1" class="cls-5" cx="14" cy="14" r="14" transform="translate(288.854 23)"/>
+          <path id="圆角矩形_15" data-name="圆角矩形 15" class="cls-4" d="M13.98,28.966v-2a1,1,0,1,1,2,0v2a1,1,0,0,1-2,0Zm10.18-3.389-1.414-1.414a1,1,0,0,1,1.414-1.415l1.415,1.415a1,1,0,0,1-1.415,1.414Zm-19.775,0a1,1,0,0,1,0-1.414L5.8,22.748a1,1,0,1,1,1.414,1.415L5.8,25.577a1,1,0,0,1-1.415,0Zm22.577-9.594a1,1,0,0,1,0-2h2a1,1,0,1,1,0,2ZM1,15.98a1,1,0,0,1,0-2H3a1,1,0,0,1,0,2ZM22.746,7.216a1,1,0,0,1,0-1.414L24.16,4.388A1,1,0,0,1,25.574,5.8L24.16,7.216a1,1,0,0,1-1.414,0ZM5.8,7.216,4.385,5.8A1,1,0,0,1,5.8,4.388L7.214,5.8A1,1,0,1,1,5.8,7.216ZM13.98,3V1a1,1,0,0,1,2,0V3a1,1,0,0,1-2,0Z"/>
+        </g>
+        <path id="形状_4" data-name="形状 4" class="cls-8" d="M2,16H58m18,0H86" transform="translate(-2 -2)"/>
+        <path id="形状_4_拷贝" data-name="形状 4 拷贝" class="cls-8" d="M624,84h29.179m18.439,0H680m12,0h4" transform="translate(40.126 -2)"/>
+        <path id="形状_4_拷贝_2" data-name="形状 4 拷贝 2" class="cls-8" d="M536,2H518.821M506.382,2H498M486,2h-4" transform="translate(29.594 -2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

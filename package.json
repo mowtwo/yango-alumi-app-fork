@@ -1,0 +1,24 @@
+{
+  "name": "yango-alumni-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "dayjs": "^1.9.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mowtwo:&99871bfz@github.com/Underdog-Studio/yango-alumni-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Underdog-Studio/yango-alumni-app/issues"
+  },
+  "homepage": "https://github.com/Underdog-Studio/yango-alumni-app#readme"
+}
